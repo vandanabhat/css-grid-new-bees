@@ -1,0 +1,19 @@
+:root {
+    --balck: #333333;
+}
+html {
+    font-family: "Helvetica Neue", 'Helvetica','sans-serif';
+    font-weight: 400;
+    font-size: 13px;
+    color: var(--balck);
+    box-sizing: border-box;
+}
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+body {
+    background: #e6e6e6;
+    margin: 50px;
+}
